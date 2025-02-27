@@ -1,0 +1,4 @@
+Federated Mental Health Predictor
+
+Predict mental health crises using wearable data across users without sharing raw data.
+This project leverages federated learning and differential privacy to ensure user privacy while enabling predictive analytics.
