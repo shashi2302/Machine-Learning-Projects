@@ -1,5 +1,12 @@
 MIT License
 
+tensorflow==2.18.0
+tensorflow-federated==0.58.0
+tensorflow-privacy==0.8.7
+pandas==2.2.3
+numpy==2.2.3
+flask==3.0.2
+
 Copyright (c) 2025 shashi kumar sharma
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
